@@ -64,7 +64,7 @@
 - Built **8 professional visualizations** (pie charts, bar charts, heatmaps) for clear insight communication
 - Generated a comprehensive HTML report with actionable recommendations (VIP programs, reactivation campaigns, welcome series)
 
-🔗 [View on GitHub](https://github.com/YOUR_GITHUB/customer-segmentation)
+🔗 [View on GitHub](https://github.com/kumshivam0712/customer_segmentation_project)
 
 ---
 
