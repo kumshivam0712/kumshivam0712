@@ -66,6 +66,16 @@
 
 🔗 [View on GitHub](https://github.com/kumshivam0712/customer_segmentation_project)
 
+
+
+### 🗳️ Online Voting System
+> **React · Node.js · MongoDB**
+ 
+- Built a secure full-stack online voting platform as a **6th semester project** using the MERN stack
+- Implemented **voter authentication & login** to ensure one-vote-per-user integrity and prevent unauthorized access
+- Developed an **admin panel** to create and manage elections, add candidates, and control voting windows
+- Integrated **real-time vote count & results dashboard** using MongoDB aggregation and React state management
+  🔗 [View on GitHub](https://github.com/kumshivam0712/voting-system.git)
 ---
 
 ## 💼 Experience
