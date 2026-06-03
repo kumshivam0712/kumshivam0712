@@ -86,12 +86,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumshivam0712&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumshivam0712&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=kumshivam0712&theme=tokyonight" height="160"/>
 </p>
+
 ---
 
 <p align="center">
