@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech CSE (AI & Data Science) @ IIIT Manipur</b><br/>
-  <i>AI/ML Enthusiast · Full-Stack Developer · App Developer · Powerlifting Gold Medalist 🏅</i>
+  <i>AI/ML Enthusiast · Full-Stack Developer · App Developer · 🏅</i>
 </p>
 
 <p align="center">
